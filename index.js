@@ -9,7 +9,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: 'Wbrother2nios.aternos.me',
     port: 26555,
-    username: 'Rakshan2022',
+    username: 'NIO',
     version: false
   });
 
